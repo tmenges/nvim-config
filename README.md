@@ -1,4 +1,4 @@
 # Configuration files for neovim
 
-Clone this repo into `./local/config/nvim`.
+Clone this repo into `$XDG_CONFIG_HOME/nvim`.
 
